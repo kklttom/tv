@@ -1,2 +1,3 @@
+央视 #genre#
 CCTV1,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
 CCTV2,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8
